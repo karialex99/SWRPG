@@ -6,4 +6,5 @@
 * imflitrating a pirate hideout
 * rancor fight
 * liberating a small village
+* Fara aftur á Hoth og gera eitthvað mission, retrieve an object? Leita að upplysingum
 
